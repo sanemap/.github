@@ -32,3 +32,20 @@ estas áreas carentes possam receber atenção e também para que o sistema sirv
 * [Vídeo Pitch](https://www.youtube.com/watch?v=4qjTk8DxQLM&feature=youtu.be)
 * [Protótipo no Figma](https://www.figma.com/file/oKMNiDqCHDQdulHtV2yqk8/SaneMap?type=design&node-id=0%3A1&mode=design&t=NmZzS7ff0im5OSVC-1)
 * [Build/.apk para instalar o aplicativo (por enquanto apenas apk para android)](https://expo.dev/artifacts/eas/ji5UDnohrmUr9m8PjdCqBq.apk)
+
+## 🧑‍🤝‍🧑 Equipe
+#### Victor Jaber - [Backend](https://github.com/sanemap/backend)
+* [Github](https://github.com/orgs/sanemap/people/VictorJaber)
+* [Linkedin](https://www.linkedin.com/in/victorjaber/)
+
+#### Phablo Raylan - [Backend](https://github.com/sanemap/backend)
+* [Github](https://github.com/orgs/sanemap/people/phabloraylan)
+* [Linkedin](https://www.linkedin.com/in/phabloraylan/)
+
+#### Glória Guazzini Porte - [Frontend](https://github.com/sanemap/frontend)
+* [Github](https://github.com/orgs/sanemap/people/phabloraylan)
+* [Linkedin](https://www.linkedin.com/in/phabloraylan/)
+
+#### Caio Victor - [Frontend](https://github.com/sanemap/frontend)
+* [Github](https://github.com/orgs/sanemap/people/GitHubWithCjcnch)
+* [Linkedin](https://www.linkedin.com/in/caio-vitor-260a231a7/)
